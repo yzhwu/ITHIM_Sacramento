@@ -31,7 +31,7 @@ A: The Simple Aggregated Plots tab shows estimated health impacts due to physica
 
   * Scenario:
     + Future Years: This shows the preferred scenario outcomes modeled in three future years.  Results are shown relative to the 2012 baseline.
-    + Scenarios: This shows three alternative scenario outcomes modeled in 2036. Results are shown relative to the 2012 baseline.
+    + Scenarios: This shows three alternative scenario outcomes modeled in 2036. Scenario 2 is the preferred scenario. Results are shown relative to the 2012 baseline.
   * Units shown:
     + Deaths indicate expected mortality.
     +	DALYs indicate expected disability-adjusted life years, which is a measure of disease burden.
@@ -47,7 +47,7 @@ A: The Advanced Plots tab shows estimated health impacts for several subpopulati
     + Option of six counties or “all” which shows all six counties.
   * Scenario:
     + Future year: This shows the preferred scenario outcomes modeled in three future years.  Results are shown relative to the 2012 baseline.
-    + Scenarios: This shows three alternative scenario outcomes modeled in 2036. Results are shown relative to the 2012 baseline.
+    + Scenarios: This shows three alternative scenario outcomes modeled in 2036. Scenario 2 is the preferred scenario. Results are shown relative to the 2012 baseline.
   * Demographic Group:
     1. Race/Ethnicity:
       - For “physical activity” outcomes this includes four categories. “White” is non-Hispanic White, “Black” is non-Hispanic Black, “Other” is non-Hispanic Other, “Hispanic” is Hispanic of all races.
